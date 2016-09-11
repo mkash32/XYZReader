@@ -25,7 +25,6 @@ import com.example.xyzreader.data.ItemsContract;
  */
 public class ArticleDetailActivity extends ActionBarActivity
         implements LoaderManager.LoaderCallbacks<Cursor> {
-
     private Cursor mCursor;
     private long mStartId;
 
