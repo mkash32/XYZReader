@@ -8,5 +8,11 @@
     <string name="action_share">Share</string>
 
     <string name="up">Up</string>
+    <string name="title_activity_art_detail">ArtDetailActivity</string>
+
+    <string name="share_text">Check out this Article: </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
